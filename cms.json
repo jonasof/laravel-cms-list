@@ -29,5 +29,17 @@
     }, {
         "name": "BootstrapCMS",
         "github": "BootstrapCMS/CMS"
+    }, {
+        "name": "WebEd CMS",
+        "github": "sgsoft-studio/webed"
+    }, {
+        "name": "Microweber",
+        "github": "microweber/microweber"
+    }, {
+        "name": "Borgert CMS",
+        "github": "odirleiborgert/borgert-cms"
+    }, {
+        "name": "Laravel 5 Simple",
+        "github": "ozdemirburak/laravel-5-simple-cms"
     }
 ]
