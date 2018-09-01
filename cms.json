@@ -21,14 +21,11 @@
         "name": "Pyro CMS",
         "github": "pyrocms/pyrocms"
     },{
-        "name": "Quarx",
-        "github": "YABhq/Quarx"
+        "name": "Grafite CMS",
+        "github": "GrafiteInc/CMS"
     }, {
         "name": "Coaster CMS",
         "github": "web-feet/coastercms"
-    }, {
-        "name": "BootstrapCMS",
-        "github": "BootstrapCMS/CMS"
     }, {
         "name": "WebEd CMS",
         "github": "sgsoft-studio/webed"
@@ -37,7 +34,7 @@
         "github": "microweber/microweber"
     }, {
         "name": "Borgert CMS",
-        "github": "odirleiborgert/borgert-cms"
+        "github": "borgert-inc/borgert-cms"
     }, {
         "name": "Laravel 5 Simple",
         "github": "ozdemirburak/laravel-5-simple-cms"
